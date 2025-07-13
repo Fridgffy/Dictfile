@@ -6978,3 +6978,5 @@
 /UpFilePage
 /特别感谢.txt
 /.svn/entries/
+/env
+/actuator/env
