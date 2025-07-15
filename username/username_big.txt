@@ -510,3 +510,23 @@ liguihua
 wangfenglan
 lishulan
 chenxiuzhen
+Admin
+Administrator
+cs
+ceshi
+admin'--
+admin' or ''=''--
+admin' or 1=1--
+'or 1=1--
+admins
+base
+admin'or''='
+super1
+ceshi123
+admin123
+sysadmin
+test123
+user123
+'or'='or'
+'or''='
+adm
